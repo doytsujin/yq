@@ -2,7 +2,7 @@ module github.com/mikefarah/yq/v4
 
 require (
 	github.com/a8m/envsubst v1.3.0
-	github.com/elliotchance/orderedmap v1.4.0
+	github.com/elliotchance/orderedmap v1.5.0
 	github.com/fatih/color v1.13.0
 	github.com/goccy/go-yaml v1.9.5
 	github.com/jinzhu/copier v0.3.5
