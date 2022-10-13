@@ -8,7 +8,7 @@ require (
 	github.com/jinzhu/copier v0.3.5
 	github.com/magiconair/properties v1.8.6
 	github.com/pkg/diff v0.0.0-20210226163009-20ebb0f2a09e
-	github.com/spf13/cobra v1.5.0
+	github.com/spf13/cobra v1.6.0
 	github.com/timtadh/lexmachine v0.2.2
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
 	gopkg.in/op/go-logging.v1 v1.0.0-20160211212156-b2cb9fa56473
@@ -16,7 +16,7 @@ require (
 )
 
 require (
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/inconshreveable/mousetrap v1.0.1 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
